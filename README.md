@@ -22,9 +22,6 @@ alx-project-0x00/
 ├── next.config.js
 └── package.json
 
-bash
-Copy
-Edit
 
 ## How to Run the Project
 
@@ -32,16 +29,8 @@ Edit
    ```bash
    cd alx-project-0x00
 Run the development server on port 3000:
-
-bash
-Copy
-Edit
-npm run dev -- -p 3000
+`npm run dev -- -p 3000`
 Open your browser and go to:
-
-arduino
-Copy
-Edit
-http://localhost:3000
-Repository
+`http://localhost:3000`
+##Repository
 This setup is part of the ALX Software Engineering curriculum.
